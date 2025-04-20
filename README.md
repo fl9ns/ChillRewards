@@ -1,2 +1,4 @@
-# ChillRewards
-Spam Twitch Rewards like a monkey
+# Extension navigateur
+[Tampermonkey®](https://www.tampermonkey.net/)
+
+# Script
