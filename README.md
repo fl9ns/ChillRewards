@@ -1,4 +1,2 @@
-# Extension navigateur
-[Tampermonkey®](https://www.tampermonkey.net/)
-
-# Script
+- [Tampermonkey®](https://www.tampermonkey.net/)
+- [script.js](/script.js)
