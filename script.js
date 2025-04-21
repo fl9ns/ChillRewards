@@ -21,7 +21,7 @@
     }
     
     // Init
-    const flouns_version = `0,1.1`;
+    const flouns_version = `0.1.1`;
     const flouns_authToken = flouns_getToken();
     const flouns_clientID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
     let flouns_rewards = [];
