@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Chill Rewards
-// @version      0.1
+// @version      0.1.1
 // @description  Chill Rewards
 // @author       FL9NS
 // @match        https://www.twitch.tv/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
-// @grant        window.onurlchange
 // ==/UserScript==
 
 (function() {
@@ -22,7 +21,7 @@
     }
     
     // Init
-    const flouns_version = `0,1`;
+    const flouns_version = `0,1.1`;
     const flouns_authToken = flouns_getToken();
     const flouns_clientID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
     let flouns_rewards = [];
